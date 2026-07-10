@@ -1,4 +1,4 @@
-<!-- TODO: Update the short bio text below if needed, and replace featured/top contribution repo names if you want different repositories than the current defaults. -->
+<!-- TODO: Update the short bio text below if needed. -->
 
 <div align="center">
   <h1>Hi, I'm Adan</h1>
@@ -11,25 +11,21 @@ I enjoy building useful tools and web experiences that solve real problems end t
 My day-to-day stack is centered around JavaScript/TypeScript and modern full-stack development workflows.  
 I care about readable code, steady iteration, and shipping work that people can actually use.
 
-## Featured project (most-starred)
-
-[![Featured project card](https://github-readme-stats.vercel.app/api/pin/?username=adanjoserrojas&repo=adanjoserrojas&theme=tokyonight&hide_border=true)](https://github.com/adanjoserrojas/adanjoserrojas)
-
-This highlighted project represents the work I’m most proud to showcase and serves as the central hub of my profile presence.
-
 ## Top contribution (most commits)
 
-[![Top contribution project card](https://github-readme-stats.vercel.app/api/pin/?username=adanjoserrojas&repo=adanjoserrojas&theme=tokyonight&hide_border=true)](https://github.com/adanjoserrojas/adanjoserrojas)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=adanjoserrojas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" alt="Top contribution highlights for adanjoserrojas" height="170" />
+</div>
 
-Primary contributor on this project, driving consistent updates and ongoing improvements.
+A contribution-focused snapshot powered by GitHub Stats Extended, highlighting merged pull requests and review activity.
 
 ## Building trends over time
 
 [![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adanjoserrojas&theme=react-dark&hide_border=true)](https://github.com/adanjoserrojas)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adanjoserrojas&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall GitHub stats for adanjoserrojas" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanjoserrojas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by adanjoserrojas" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=adanjoserrojas&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall GitHub stats for adanjoserrojas" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adanjoserrojas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by adanjoserrojas" height="170" />
 </div>
 
 <div align="center">
