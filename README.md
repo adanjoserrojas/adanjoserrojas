@@ -1,7 +1,7 @@
 <!-- TODO: Update the short bio text below if needed, and replace featured/top contribution repo names if you want different repositories than the current defaults. -->
 
 <div align="center">
-  <h1>Hi, I'm Adán José Rojas 👋</h1>
+  <h1>Hi, I'm Adan</h1>
   <p>Building practical software with clean UX and reliable engineering.</p>
 </div>
 
