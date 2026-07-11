@@ -26,8 +26,8 @@
 
 ## 👋 About Me
 
-I enjoy building useful tools and web experiences that solve real problems end to end.
-My day-to-day stack is centered around JavaScript/TypeScript and modern full-stack development workflows.
+Currently I am enjoying building AI Agents and subagents, my own MCPs, and my own skills to optimize how a build CRUD apps.
+My day-to-day is working on my projects, going to the gym, and reading papers.
 I care about readable code, steady iteration, and shipping work that people can actually use.
 
 ---
@@ -54,7 +54,7 @@ A contribution-focused snapshot highlighting merged pull requests and review act
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adanjoserrojas&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for adanjoserrojas" />
+  <img src="https://streak-stats.demolab.com?user=adanjoserrojas&theme=tokyonight&hide_border=true&cachebust=1" alt="GitHub contribution streak for adanjoserrojas" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
