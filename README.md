@@ -1,6 +1,6 @@
 <!-- TODO: Update the short bio text below if needed. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Adan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Adan banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi,%20I'm%20Adan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Adan banner" />
 
 <div align="center">
 
