@@ -20,7 +20,13 @@
 
 <div align="center">
 
-[![LOCA-bench](https://img.shields.io/badge/LOCA--bench-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2602.07962)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.23473-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.23473)
+[![arXiv](https://img.shields.io/badge/arXiv-2403.10517-b31b1b?logo=arxiv)](https://arxiv.org/pdf/2403.10517)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.10200-b31b1b?logo=arxiv)](https://arxiv.org/pdf/2503.10200)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.20618-b31b1b?logo=arxiv)](https://arxiv.org/pdf/2512.20618)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.20785-b31b1b?logo=arxiv)](https://arxiv.org/pdf/2511.20785)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.05489-b31b1b?logo=arxiv)](https://arxiv.org/pdf/2511.05489)
+
 
 </div>
 
